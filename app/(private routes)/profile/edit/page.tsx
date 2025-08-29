@@ -1,3 +1,5 @@
+"use client"
+
 import { useEffect, useState } from "react";
 import css from "./EditProfilePage.module.css"
 import Image from "next/image";
